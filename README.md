@@ -1,3 +1,7 @@
+# Repositório de Estudo - Decola Dev Avanade 2021 - Digital Innovation One
+
+Especialista: Eliézer Zarpelão
+
 # dotnet-vaquinha-tests
 Projeto Base para Testes - .Net Core  
 
